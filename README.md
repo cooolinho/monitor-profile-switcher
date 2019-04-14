@@ -65,7 +65,7 @@ In the batch script there is a placeholder `%~n0` = this will be replaced with t
 #### 3. Create Shortcuts
 I use a Stream Deck for fast profile switching
 
-![Alt text](assets/images/streamdeck-monitors.png?raw=true "Optional Title")
+![StreamDeck Preview](assets/images/streamdeck-monitors.png?raw=true)
 
 1. Create a new Button
 2. Open File > App/File > Monitor-1.bat
